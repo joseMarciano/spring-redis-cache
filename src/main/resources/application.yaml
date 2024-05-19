@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: spring-boot-caching
+
+
+redis:
+  host: redis://localhost:6379

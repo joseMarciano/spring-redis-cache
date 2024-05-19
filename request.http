@@ -1,0 +1,19 @@
+### GET request product
+GET http://localhost:8080/product/cacheable/123
+Accept: application/json
+
+### GET request car
+GET http://localhost:8080/car/put/123
+Accept: application/json
+
+### GET request customer
+GET http://localhost:8080/customer/cacheable/123
+Accept: application/json
+
+### POST create product
+POST http://localhost:8080/customer/evict/123
+Accept: application/json
+
+
+
+
